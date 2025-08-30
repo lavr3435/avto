@@ -1,4 +1,3 @@
-[deepseek_html_20250830_0f454d.html](https://github.com/user-attachments/files/22059236/deepseek_html_20250830_0f454d.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
